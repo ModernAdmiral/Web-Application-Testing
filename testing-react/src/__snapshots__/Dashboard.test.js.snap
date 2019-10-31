@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <h1>
+    Display
+  </h1>
+  <div>
+    <h2>
+      Balls: 0
+    </h2>
+    <h2>
+      Strikes: 0
+    </h2>
+  </div>
+  <h1>
+    Dashboard
+  </h1>
+  <button>
+    ball!
+  </button>
+  <button>
+    strike!
+  </button>
+</DocumentFragment>
+`;
